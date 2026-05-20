@@ -6,9 +6,9 @@
 const DATA_SRC = 'https://raw.githubusercontent.com/openfootball/worldcup.json/refs/heads/master/2026';
 // EDITA ESTAS 3 COSAS POR FAVOR
 // POR FAVOR
-const LEADERBOARD_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSDbPhOej3DnN_bdvrCQ5R0T6HZg6bBaxKdH17J_Pc3oGOkKkd9V83BUDYlBSCevOrqYK2XQuA7ZMCx/pub?gid=1633860364&single=true&output=csv'
-const FORM_ID = '1FAIpQLSdiF0qsK65DcaadNKRzDbue8xtkzAIIev-7yqUqAH3srhEAQg';
-const ENTRY_ID = 'entry.496944209';
+const LEADERBOARD_CSV_URL = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS5W9xzV6vSyN6rXjh9b_VCnzSZtVlm96Vf3Fk887asEUmrRG10HZA9zRudHD8iYIHH92IbqLgzmSdO/pub?gid=530190486&single=true&output=csv'
+const FORM_ID = '1FAIpQLSdNxf6lWCzvqGpjf_Og3AsxI-DDT4aRvum_hW6dWJwGyADimg';
+const ENTRY_ID = 'entry.2120193494';
 // REPITO, POR FAVOR
 
 const FLAG_CODE = {
